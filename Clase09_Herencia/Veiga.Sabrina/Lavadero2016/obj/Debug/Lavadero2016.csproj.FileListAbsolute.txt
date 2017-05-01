@@ -1,0 +1,12 @@
+c:\users\sabrina\documents\visual studio 2012\Projects\Veiga.Sabrina\Lavadero2016\bin\Debug\Lavadero2016.exe.config
+c:\users\sabrina\documents\visual studio 2012\Projects\Veiga.Sabrina\Lavadero2016\obj\Debug\Lavadero2016.csprojResolveAssemblyReference.cache
+c:\users\sabrina\documents\visual studio 2012\Projects\Veiga.Sabrina\Lavadero2016\bin\Debug\Lavadero2016.exe
+c:\users\sabrina\documents\visual studio 2012\Projects\Veiga.Sabrina\Lavadero2016\bin\Debug\Lavadero2016.pdb
+c:\users\sabrina\documents\visual studio 2012\Projects\Veiga.Sabrina\Lavadero2016\obj\Debug\Lavadero2016.exe
+c:\users\sabrina\documents\visual studio 2012\Projects\Veiga.Sabrina\Lavadero2016\obj\Debug\Lavadero2016.pdb
+C:\Users\Sabrina\Documents\Sabrina\Programacion_II_Sabrina.Veiga\Programacion-II-master\Clase09_Herencia\Veiga.Sabrina\Lavadero2016\bin\Debug\Lavadero2016.exe.config
+C:\Users\Sabrina\Documents\Sabrina\Programacion_II_Sabrina.Veiga\Programacion-II-master\Clase09_Herencia\Veiga.Sabrina\Lavadero2016\obj\Debug\Lavadero2016.exe
+C:\Users\Sabrina\Documents\Sabrina\Programacion_II_Sabrina.Veiga\Programacion-II-master\Clase09_Herencia\Veiga.Sabrina\Lavadero2016\obj\Debug\Lavadero2016.pdb
+C:\Users\Sabrina\Documents\Sabrina\Programacion_II_Sabrina.Veiga\Programacion-II-master\Clase09_Herencia\Veiga.Sabrina\Lavadero2016\obj\Debug\Lavadero2016.csprojResolveAssemblyReference.cache
+C:\Users\Sabrina\Documents\Sabrina\Programacion_II_Sabrina.Veiga\Programacion-II-master\Clase09_Herencia\Veiga.Sabrina\Lavadero2016\bin\Debug\Lavadero2016.exe
+C:\Users\Sabrina\Documents\Sabrina\Programacion_II_Sabrina.Veiga\Programacion-II-master\Clase09_Herencia\Veiga.Sabrina\Lavadero2016\bin\Debug\Lavadero2016.pdb
