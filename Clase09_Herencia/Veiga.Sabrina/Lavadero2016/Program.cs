@@ -133,7 +133,7 @@ namespace Lavadero2016
 
         static void Main(string[] args)
         {
-            
+
             Enumeraciones.EVehiculo tipo;
             bool continuar = true;
             int option = 0;
@@ -200,9 +200,16 @@ namespace Lavadero2016
 
                         if (lavadero == vehiculo)
                         {
+                            foreach (Vehiculo ve in lavadero.Vehiculos)
+                            {
+                                if (ve == vehiculo)
+                                {
+                                    vehiculo = ve;
+                                    break;
+                                }
+                            }
                             lavadero = lavadero - vehiculo;
                         }
-
                         else
                         {
                             Console.WriteLine("El auto ya fue retirado o nunca se ingresó.");
