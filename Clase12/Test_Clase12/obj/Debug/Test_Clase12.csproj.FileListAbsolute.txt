@@ -1,0 +1,8 @@
+D:\VisualStudio\Clase12\Test_Clase12\bin\Debug\Test_Clase12.exe.config
+D:\VisualStudio\Clase12\Test_Clase12\obj\Debug\Test_Clase12.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Clase12\Test_Clase12\bin\Debug\Test_Clase12.exe
+D:\VisualStudio\Clase12\Test_Clase12\bin\Debug\Test_Clase12.pdb
+D:\VisualStudio\Clase12\Test_Clase12\bin\Debug\Clases.exe
+D:\VisualStudio\Clase12\Test_Clase12\bin\Debug\Clases.pdb
+D:\VisualStudio\Clase12\Test_Clase12\obj\Debug\Test_Clase12.exe
+D:\VisualStudio\Clase12\Test_Clase12\obj\Debug\Test_Clase12.pdb

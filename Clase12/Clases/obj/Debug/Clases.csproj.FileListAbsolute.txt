@@ -1,0 +1,6 @@
+D:\VisualStudio\Clase12\Clases\bin\Debug\Clases.exe.config
+D:\VisualStudio\Clase12\Clases\bin\Debug\Clases.exe
+D:\VisualStudio\Clase12\Clases\bin\Debug\Clases.pdb
+D:\VisualStudio\Clase12\Clases\obj\Debug\Clases.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Clase12\Clases\obj\Debug\Clases.exe
+D:\VisualStudio\Clase12\Clases\obj\Debug\Clases.pdb
