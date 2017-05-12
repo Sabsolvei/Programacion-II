@@ -1,0 +1,6 @@
+D:\Veiga.Sabrina.2C\Entidades\bin\Debug\Entidades.exe.config
+D:\Veiga.Sabrina.2C\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Veiga.Sabrina.2C\Entidades\bin\Debug\Entidades.exe
+D:\Veiga.Sabrina.2C\Entidades\bin\Debug\Entidades.pdb
+D:\Veiga.Sabrina.2C\Entidades\obj\Debug\Entidades.exe
+D:\Veiga.Sabrina.2C\Entidades\obj\Debug\Entidades.pdb
