@@ -91,8 +91,8 @@ namespace CentralitaHerencia
         public string Mostrar()
         {
             StringBuilder sb = new StringBuilder();
-            sb.AppendFormat("Empresa: ¨{0}", this._razonSocial);
-            sb.AppendFormat("Ganancia Total: {0}\nGanancia Local: {1}\nGanancia Provincial: {3}", this.GananciaTotal, this.GananciaPorLocal, this.GananciaPorProvincial);
+            sb.AppendFormat("Empresa: \"{0}\"", this._razonSocial);
+            sb.AppendFormat("\nGanancia Total: {0}\nGanancia Local: {1}\nGanancia Provincial: {2}\n", this.GananciaTotal, this.GananciaPorLocal, this.GananciaPorProvincial);
             foreach (Llamada llamada in ListaDeLlamadas)
             {
                 sb.AppendLine(llamada.Mostrar());

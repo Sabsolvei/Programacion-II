@@ -48,17 +48,17 @@ namespace CentralitaHerencia
         public virtual string Mostrar()
         {
             StringBuilder sb = new StringBuilder();
-            sb.Append("Nro Origen: "+this.NroOrigen);
-            sb.Append("Nro Destino: " + this.NroDestino);
-            sb.Append("Duración: " + this.Duracion);
+            sb.Append("\nNro Origen: " + this.NroOrigen);
+            sb.Append("\nNro Destino: " + this.NroDestino);
+            sb.Append("\nDuración: " + this.Duracion);
 
             return sb.ToString();
            
         }
 
-        static int OrdenarPorDuracion(Llamada uno, Llamada dos)
+        public static int OrdenarPorDuracion(Llamada uno, Llamada dos)
         {
-            return 5;
+            return uno.Duracion.CompareTo(dos.Duracion);
         }
     }
 }

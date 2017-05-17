@@ -9,3 +9,9 @@ D:\CentralitaHerencia\obj\Debug\CentralitaHerencia.pdb
 D:\CentralitaHerencia\obj\Debug\CentralitaHerencia.csprojResolveAssemblyReference.cache
 D:\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe
 D:\CentralitaHerencia\bin\Debug\CentralitaHerencia.pdb
+D:\Programacion-II-master\Programacion-II-master\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe.config
+D:\Programacion-II-master\Programacion-II-master\CentralitaHerencia\obj\Debug\CentralitaHerencia.exe
+D:\Programacion-II-master\Programacion-II-master\CentralitaHerencia\obj\Debug\CentralitaHerencia.pdb
+D:\Programacion-II-master\Programacion-II-master\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe
+D:\Programacion-II-master\Programacion-II-master\CentralitaHerencia\bin\Debug\CentralitaHerencia.pdb
+D:\Programacion-II-master\Programacion-II-master\CentralitaHerencia\obj\Debug\CentralitaHerencia.csprojResolveAssemblyReference.cache
