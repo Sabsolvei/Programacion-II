@@ -1,0 +1,10 @@
+D:\VisualStudio\Clase_15\Clase_15\bin\Debug\Clase_15.exe.config
+D:\VisualStudio\Clase_15\Clase_15\bin\Debug\Clase_15.exe
+D:\VisualStudio\Clase_15\Clase_15\bin\Debug\Clase_15.pdb
+D:\VisualStudio\Clase_15\Clase_15\bin\Debug\Personas.dll
+D:\VisualStudio\Clase_15\Clase_15\bin\Debug\Personas.pdb
+D:\VisualStudio\Clase_15\Clase_15\obj\Debug\Clase_15.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Clase_15\Clase_15\obj\Debug\Clase_15.exe
+D:\VisualStudio\Clase_15\Clase_15\obj\Debug\Clase_15.pdb
+D:\VisualStudio\Clase_15\Clase_15\bin\Debug\Entidades.Externa.dll
+D:\VisualStudio\Clase_15\Clase_15\bin\Debug\Entidades.Externa.Sellada.dll
