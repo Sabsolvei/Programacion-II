@@ -1,0 +1,8 @@
+D:\Clase_16_Interfaces\Entidades_interfaces_2016\Vehiculos_Interface\bin\Debug\Vehiculos_Interface.exe.config
+D:\Clase_16_Interfaces\Entidades_interfaces_2016\Vehiculos_Interface\bin\Debug\Vehiculos_Interface.exe
+D:\Clase_16_Interfaces\Entidades_interfaces_2016\Vehiculos_Interface\bin\Debug\Vehiculos_Interface.pdb
+D:\Clase_16_Interfaces\Entidades_interfaces_2016\Vehiculos_Interface\bin\Debug\Entidades.dll
+D:\Clase_16_Interfaces\Entidades_interfaces_2016\Vehiculos_Interface\bin\Debug\Entidades.pdb
+D:\Clase_16_Interfaces\Entidades_interfaces_2016\Vehiculos_Interface\obj\Debug\Vehiculos_Interface.csprojResolveAssemblyReference.cache
+D:\Clase_16_Interfaces\Entidades_interfaces_2016\Vehiculos_Interface\obj\Debug\Vehiculos_Interface.exe
+D:\Clase_16_Interfaces\Entidades_interfaces_2016\Vehiculos_Interface\obj\Debug\Vehiculos_Interface.pdb

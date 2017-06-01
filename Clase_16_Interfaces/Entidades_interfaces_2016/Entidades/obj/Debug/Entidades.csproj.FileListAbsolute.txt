@@ -1,0 +1,5 @@
+D:\Clase_16_Interfaces\Entidades_interfaces_2016\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Clase_16_Interfaces\Entidades_interfaces_2016\Entidades\bin\Debug\Entidades.dll
+D:\Clase_16_Interfaces\Entidades_interfaces_2016\Entidades\bin\Debug\Entidades.pdb
+D:\Clase_16_Interfaces\Entidades_interfaces_2016\Entidades\obj\Debug\Entidades.dll
+D:\Clase_16_Interfaces\Entidades_interfaces_2016\Entidades\obj\Debug\Entidades.pdb
